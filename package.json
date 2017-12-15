@@ -49,7 +49,7 @@
     "rimraf": "latest",
     "webpack": "latest"
   },
-  "app": "TURBO_APP_ID",
+  "app": "5a3409fd1a748b00149e1832",
   "deploy": [
     "."
   ],
