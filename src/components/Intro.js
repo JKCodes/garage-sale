@@ -5,7 +5,6 @@ export default (props) => {
 
 	return (
 		<div className="row">
-
 			<div className="col-md-6 col-md-offset-3" style={{textAlign:'center', marginBottom:48}}>
 				<h1>Welcome to Turbo</h1>
 				<hr />
@@ -76,10 +75,8 @@ export default (props) => {
 
 					When deployment is complete, you will see a live link where you can access the project on the internet!
 				</p>
-
 			</div>
 		</div>
-
 	)
 }
 
